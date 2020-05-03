@@ -15,8 +15,9 @@ public class c {
 		try {
 			c c = new c("", 5001); //
 			O(c.k("0N!", c.k("0N!1999.01.01D-1"))); // c.k("0N!",NULL('z'));
-			c.setEncoding("UTF-8");
-			O("Unicode " + c.k("{`$x}", "Ranby Björklund AB".toCharArray()));
+kx.c.setEncoding("UTF-8");
+
+			O("Unicode " + c.k("{`$x}", "Ranby Bjï¿½rklund AB".toCharArray()));
 			O("Unicode "+ c.k("{x}",(String) c.k("{`$x}",(char[]) c.k("\"c\"$0x52616e627920426ac3b6726b6c756e64204142"))));
 			c.close();
 		} catch (Exception e) {
