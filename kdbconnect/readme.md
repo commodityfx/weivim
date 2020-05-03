@@ -1,10 +1,16 @@
-Java Kdb API Example Code
-======================================
+# kdb+ java api and price feed stream
 
-This code belongs with the article: [Kdb Java API](http://www.timestored.com/kdb-guides/kdb-java-api).
-
-It demonstrates:
+## overview 
+This connection demonstrates:
  - Querying a kdb process
  - Subscribing to a kdb tickerplant
+ - subscribe via wss
+ - udp and haproxy for prod.
+ - multiple market index's 
+ 
+ # license
+ fork of [timestore](http://www.timestored.com/kdb-guides/kdb-java-api)
+ 
+ # notice
+ admin@freighttrust.com for security issues
 
-It is a simple example only and does not contain good logging, failover, polling or retrying connections. Those things are left as an exercise for the reader.
